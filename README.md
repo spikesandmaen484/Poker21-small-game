@@ -1,1 +1,1 @@
-# Poker21-small-game
+# Poker21-small-game 用JAVA寫的小遊戲
